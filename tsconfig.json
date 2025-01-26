@@ -1,0 +1,11 @@
+{
+    "extends": "@tsconfig/node22/tsconfig.json", 
+    "compilerOptions": {
+      // Add any project-specific overrides here if needed
+        "outDir": "./dist",
+        "strict": true,
+        "lib": ["es2022", "dom"]
+    },
+    "include": ["src/**/*"], 
+    "exclude": ["**/*.spec.ts"] 
+  }
