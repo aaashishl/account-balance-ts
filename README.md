@@ -44,4 +44,5 @@ npm install --global yarn
 chmod +x accountbalance.sh
 ./accountbalance.sh
 ```
-Provide the account
+At the prompt provide the address
+Enter account address:1DrDyTr9RpRsQnDnXo2YRiPzPW4ooHX5LLoqXrqfMrpQH
